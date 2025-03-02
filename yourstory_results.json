@@ -1,428 +1,848 @@
 {
     "founders": [
         {
-            "title": "",
+            "title": "AI accelerating medical research; Solving pain points in sales",
+            "link": "https://yourstory.com/2025/03/ai-accelerating-medical-research-enterprise-sales",
+            "date": "02/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": "Beyond speed, AI has also helped reduce costs. Conventional methods required nearly $35,000 per genome analysis, but AI-driven models running on GPUs have"
+        },
+        {
+            "title": "Platforms, learning, empowerment: test your business creativity with Edition 177 of our weekly quiz!",
+            "link": "https://yourstory.com/2025/03/platforms-learning-empowerment-ai-entrepreneur-innovation-education-quiz",
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 177th quiz. Ready?"
+        },
+        {
+            "title": "How venture capitalists fund Indian startups: Inside the minds of India's top VCs",
+            "link": "https://yourstory.com/2025/03/venture-capitalists-secure-billions-fund-indian-startups",
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": "In this power-packed episode, India\u2019s top venture capitalists answer the billion-dollar question: How VC firms get money for Indian startups? The 3 VCs wh"
+        },
+        {
+            "title": "Private equity firm Haveli Investments acquires AppViewX",
             "link": "https://yourstory.com/2025/03/private-equity-firm-haveli-investments-acquires-appviewx",
             "date": "01/03/2025",
             "category": "Mergers and Acquisitions",
-            "description": ""
+            "excerpt": "As part of the strategic acquisition, cybersecurity veteran Dino DiMarino has been appointed as the Chief Executive Officer to lead AppViewX in to next ph"
         },
         {
-            "title": "",
+            "title": "AI\u2019s role in medical breakthroughs: How GPUs are transforming genomics and drug discovery",
             "link": "https://yourstory.com/2025/03/devsparks-ai-medical-gpus-accelerating-breakthroughs",
             "date": "01/03/2025",
             "category": "DevSparks",
-            "description": ""
+            "excerpt": "Speaking at DevSparks 2025, Gaurav Tripathi, Co-founder and chief technology officer of InnoPlexus, emphasised how AI-driven advancements in computational"
         },
         {
-            "title": "",
+            "title": "Debt financing: paving the way for D2C and SaaS businesses",
             "link": "https://yourstory.com/2025/02/debt-financing-paving-d2c-alongside-saas-businesses-way",
             "date": "01/03/2025",
             "category": "Financial Services",
-            "description": ""
+            "excerpt": "Quick commerce has opened a new door for D2C businesses. Debt financing can help them cross the threshold and reach new heights."
         },
         {
-            "title": "",
+            "title": "Flipkart shuts down ANS Commerce, lays off workforce",
             "link": "https://yourstory.com/2025/03/flipkart-shuts-down-ans-commerce-lays-off-workforce",
             "date": "01/03/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "Founded in 2017, the firm was providing all support including marketing tools, warehousing, etc., to entities that wanted to sell their product online."
         },
         {
-            "title": "",
+            "title": "Chef Ishtiyaque Qureshi\u2019s take on Awadhi cuisine beyond the classics",
             "link": "https://yourstory.com/ys-life/chef-ishtiyaque-qureshi-awadhi-cuisine",
             "date": "01/03/2025",
             "category": "Wine and Food",
-            "description": ""
+            "excerpt": "In a freewheeling chat, Chef Ishtiyaque Qureshi, son of the late Imtiaz Qureshi, tells us about his inclination towards discovery and creation while maint"
         },
         {
-            "title": "",
+            "title": "Why Pristyn Care exited Bangladesh; Experts on the dropping Bitcoin price",
             "link": "https://yourstory.com/2025/02/why-pristyn-care-exited-bangladesh-bitcoin-proce-byju-court-case",
             "date": "01/03/2025",
             "category": "Daily Capsule",
-            "description": ""
+            "excerpt": "Indian healthcare startup Pristyn Care has halted its operations in Bangladesh, less than a year after expanding to the neighbouring country, YourStory ha"
         },
         {
-            "title": "",
+            "title": "Rethinking CSR spending: are we missing the mark?",
             "link": "https://yourstory.com/socialstory/2025/01/rethinking-csr-spending-deeptech-systemic-transformations",
             "date": "01/03/2025",
             "category": "Opinion",
-            "description": ""
+            "excerpt": "CSR has evolved beyond being a compliance-driven obligation to emerge as a strategic tool for driving sustainable and lasting social impact."
         },
         {
-            "title": "",
+            "title": "Flip structures under the new overseas direct investment framework",
             "link": "https://yourstory.com/2025/02/flip-structures-under-new-overseas-direct-investment-framework",
             "date": "01/03/2025",
             "category": "Opinion",
-            "description": ""
+            "excerpt": "In the recent past, flip structures have gained popularity among Indian startups, and some startups have actively adopted such flip structures to infuse f"
         },
         {
-            "title": "",
+            "title": "Raising the bar: Bengaluru\u2019s cocktail taverns now rival the best in India and Asia",
             "link": "https://yourstory.com/ys-life/bengaluru-cocktail-bars-now-rival-india-and-asias-best",
             "date": "01/03/2025",
             "category": "Wine and Food",
-            "description": ""
+            "excerpt": "Renowned as the beer capital of India, Bengaluru is now leading the game with its intimate and personalised bars that go beyond just good cocktails, to pr"
         },
         {
-            "title": "",
+            "title": "Adani Green Energy crosses 12GW renewable energy capacity mark, added 275MW solar project",
             "link": "https://yourstory.com/enterprise-story/2025/02/adani-green-energy-crosses-12gw-renewable-energy-capacity",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "AGEL's 12,258.1 MW portfolio consists of 8,347.5 MW solar, 1,651 MW wind and 2,259.6 MW wind-solar hybrid capacity."
         },
         {
-            "title": "",
+            "title": "US bankruptcy court says BYJU\u2019S, Riju Ravindran, Camshaft defrauded lenders",
             "link": "https://yourstory.com/2025/02/byjus-riju-ravindran-alpha-533-million-fraud-court-judgment-verdict",
             "date": "28/02/2025",
             "category": "Edtech",
-            "description": ""
+            "excerpt": "The court also confirmed that Riju Ravindran violated his fiduciary duties as a director of BYJU\u2019S Alpha."
         },
         {
-            "title": "",
+            "title": "Bitcoin drops below $80,000 amid macro uncertainty but experts remain optimistic",
             "link": "https://yourstory.com/2025/02/bitcoin-price-80000-donald-trump-tariff-macro-uncertainty-crypto",
             "date": "28/02/2025",
             "category": "Cryptocurrency",
-            "description": ""
+            "excerpt": "Bitcoin's price has fallen from the heights of above $108,000 a month ago after Donald Trump became the US President."
         },
         {
-            "title": "",
+            "title": "4 must-read iconic books recommended by Prajakta Koli",
             "link": "https://yourstory.com/2025/02/iconic-books-prajakta-koli-read",
             "date": "28/02/2025",
             "category": "Books",
-            "description": ""
+            "excerpt": "Discover 4 iconic books recommended by Prajakta Koli, featuring inspiring reads across genres that shaped her journey. Add them to your list!"
         },
         {
-            "title": "",
+            "title": "Meet ARI: You.com's AI That Researches 400+ Sources in a Second.",
             "link": "https://yourstory.com/2025/02/youcom-ari-400-sources",
             "date": "28/02/2025",
             "category": "AI Gen",
-            "description": ""
+            "excerpt": "Exploring You.com's ARI, an AI research agent that processes over 400 sources simultaneously, transforming industry standards for speed, accuracy, and cos"
         },
         {
-            "title": "",
+            "title": "Ethereal Machines signs MoU with Karnataka Government to establish factory in Bengaluru",
             "link": "https://yourstory.com/2025/02/ethereal-machines-signs-mou-with-karnataka-government",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "The facility is expected to advance precision manufacturing, engineering, and research and development (R&D) while contributing to India and Karnataka\u2019s i"
         },
         {
-            "title": "",
+            "title": "Ola Electric takes the top spot in E2W market in February with 25,000 units sold",
             "link": "https://yourstory.com/2025/02/ola-electric-dominates-e2w-market-february-units-sold",
             "date": "28/02/2025",
             "category": "Electric Vehicle",
-            "description": ""
+            "excerpt": "The company had said earlier this month that it was renegotiating its contracts with vehicle registration agencies, temporarily affecting numbers on VAHAN"
         },
         {
-            "title": "",
+            "title": "CashKaro: Rewriting the rules of ecommerce",
             "link": "https://yourstory.com/video/cashkaro-rewriting-the-rules-of-ecommerce",
             "date": "28/02/2025",
             "category": null,
-            "description": ""
+            "excerpt": "Airtel Business, in association with YourStory, presents Mavericks Season 3, featuring CashKaro \u2013 the platform revolutionizing online shopping in India! \ud83d\ude80  Since 2013, Swati & Rohan Bhargava have empowered 15M+ users to save big through cashback & coupons, partnering with 1,500+ ecommerce platforms"
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/startup-news-and-updates-daily-roundup-february-28",
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Mergers and Acquisitions",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "DevSparks",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Financial Services",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "News",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Wine and Food",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Opinion",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Opinion",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Wine and Food",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/openai-rolls-out-latest-model-gpt-45-gpu-shortages-delay-wider-rollout",
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Edtech",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Cryptocurrency",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Books",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "AI Gen",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/devsparks-pune-2025-developer-conference-summit-speakers-agenda",
+            "title": null,
+            "link": null,
             "date": "28/02/2025",
-            "category": "Events",
-            "description": ""
+            "category": "Electric Vehicle",
+            "excerpt": ""
+        },
+        {
+            "title": "Mavericks - Season 3",
+            "link": "https://yourstory.com/series/mavericks-season-3",
+            "date": "28/02/2025",
+            "category": null,
+            "excerpt": "Entrepreneurship is not for the faint-hearted. But every now and then, the ones who choose to tread and stick to the path emerge true victors, the brave hearts. They think outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system. They are the Mavericks."
         }
     ],
     "startups": [
         {
-            "title": "",
+            "title": "Platforms, positioning, pricing \u2013 six Chitra Santhe artists share advice from their creative journeys",
+            "link": "https://yourstory.com/2025/02/platforms-positioning-pricing-art-exhibition-chitra-santhe-creativity-photography",
+            "date": "02/03/2025",
+            "category": "Art and craft",
+            "excerpt": "In this photo essay series from Bengaluru, we showcase more artistic highlights and tips from one of India\u2019s largest street fairs for art."
+        },
+        {
+            "title": "AI accelerating medical research; Solving pain points in sales",
+            "link": "https://yourstory.com/2025/03/ai-accelerating-medical-research-enterprise-sales",
+            "date": "02/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": "Beyond speed, AI has also helped reduce costs. Conventional methods required nearly $35,000 per genome analysis, but AI-driven models running on GPUs have"
+        },
+        {
+            "title": "Platforms, learning, empowerment: test your business creativity with Edition 177 of our weekly quiz!",
+            "link": "https://yourstory.com/2025/03/platforms-learning-empowerment-ai-entrepreneur-innovation-education-quiz",
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 177th quiz. Ready?"
+        },
+        {
+            "title": "How venture capitalists fund Indian startups: Inside the minds of India's top VCs",
+            "link": "https://yourstory.com/2025/03/venture-capitalists-secure-billions-fund-indian-startups",
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": "In this power-packed episode, India\u2019s top venture capitalists answer the billion-dollar question: How VC firms get money for Indian startups? The 3 VCs wh"
+        },
+        {
+            "title": "How SurveySparrow\u2019s internal challenge is evolving into its next revenue engine",
             "link": "https://yourstory.com/2025/03/how-surveysparrows-internal-challenge-evolving-revenue-engine",
             "date": "01/03/2025",
             "category": "Interview",
-            "description": ""
+            "excerpt": "SurveySparrow's Chief Customer Officer Vipin Thomas shares how the tediousness of answering endless enterprise questionnaires inspired an AI tool that str"
         },
         {
-            "title": "",
+            "title": "Debt financing: paving the way for D2C and SaaS businesses",
             "link": "https://yourstory.com/2025/02/debt-financing-paving-d2c-alongside-saas-businesses-way",
             "date": "01/03/2025",
             "category": "Financial Services",
-            "description": ""
+            "excerpt": "Quick commerce has opened a new door for D2C businesses. Debt financing can help them cross the threshold and reach new heights."
         },
         {
-            "title": "",
+            "title": "Creativity and collaboration \u2013 how Museum of Goa engages the artistic community",
             "link": "https://yourstory.com/2025/02/creativity-collaboration-museum-of-goa-art-culture-photography",
             "date": "01/03/2025",
             "category": "Art and Culture",
-            "description": ""
+            "excerpt": "In this photo essay from the Museum of Goa, we showcase more creative highlights and curator insights."
         },
         {
-            "title": "",
+            "title": "Why Pristyn Care exited Bangladesh; Experts on the dropping Bitcoin price",
             "link": "https://yourstory.com/2025/02/why-pristyn-care-exited-bangladesh-bitcoin-proce-byju-court-case",
             "date": "01/03/2025",
             "category": "Daily Capsule",
-            "description": ""
+            "excerpt": "Indian healthcare startup Pristyn Care has halted its operations in Bangladesh, less than a year after expanding to the neighbouring country, YourStory ha"
         },
         {
-            "title": "",
+            "title": "Flip structures under the new overseas direct investment framework",
             "link": "https://yourstory.com/2025/02/flip-structures-under-new-overseas-direct-investment-framework",
             "date": "01/03/2025",
             "category": "Opinion",
-            "description": ""
+            "excerpt": "In the recent past, flip structures have gained popularity among Indian startups, and some startups have actively adopted such flip structures to infuse f"
         },
         {
-            "title": "",
+            "title": "US bankruptcy court says BYJU\u2019S, Riju Ravindran, Camshaft defrauded lenders",
             "link": "https://yourstory.com/2025/02/byjus-riju-ravindran-alpha-533-million-fraud-court-judgment-verdict",
             "date": "28/02/2025",
             "category": "Edtech",
-            "description": ""
+            "excerpt": "The court also confirmed that Riju Ravindran violated his fiduciary duties as a director of BYJU\u2019S Alpha."
         },
         {
-            "title": "",
+            "title": "[Weekly funding roundup Feb 22-28] VC investments plummets further",
             "link": "https://yourstory.com/2025/02/weekly-funding-roundup-feb-22-28-vc-investments-decline",
             "date": "28/02/2025",
             "category": "Funding",
-            "description": ""
+            "excerpt": "Venture capital funding into Indian startups continued to decline for two consecutive weeks and trend may persist for some more time."
         },
         {
-            "title": "",
+            "title": "Ola Electric takes the top spot in E2W market in February with 25,000 units sold",
             "link": "https://yourstory.com/2025/02/ola-electric-dominates-e2w-market-february-units-sold",
             "date": "28/02/2025",
             "category": "Electric Vehicle",
-            "description": ""
+            "excerpt": "The company had said earlier this month that it was renegotiating its contracts with vehicle registration agencies, temporarily affecting numbers on VAHAN"
         },
         {
-            "title": "",
+            "title": "Startup news and updates: Daily roundup (February 28, 2025)",
             "link": "https://yourstory.com/2025/02/startup-news-and-updates-daily-roundup-february-28",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, February 28, 2025."
         },
         {
-            "title": "",
+            "title": "Exclusive: Why Pristyn Care exited Bangladesh",
             "link": "https://yourstory.com/2025/02/why-pristyn-care-exited-bangladesh",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "Pristyn Care has shut down its Bangladesh operations less than a year after launch due to political instability, among other reasons, shifting focus back"
         },
         {
-            "title": "",
+            "title": "What's happening at DevSparks Pune? Here's the full agenda",
             "link": "https://yourstory.com/2025/02/devsparks-pune-2025-developer-conference-summit-speakers-agenda",
             "date": "28/02/2025",
             "category": "Events",
-            "description": ""
+            "excerpt": "DevSparks Pune 2025 features AI pioneers, deep tech experts, and global leaders who are pushing the boundaries of technology. Get the best actionable take"
         },
         {
-            "title": "",
+            "title": "She Capital, Capri Sports host founders\u2019 meet against backdrop of WPL game in Bengaluru",
             "link": "https://yourstory.com/herstory/2025/02/she-capital-capri-sports-host-founders-meet-wpl",
             "date": "28/02/2025",
             "category": "Events",
-            "description": ""
+            "excerpt": "She Capital and Capri Sports hosted a gathering of prominent women founders at a recent WPL game in Bengaluru."
         },
         {
-            "title": "",
+            "title": "How Tamanna Sharma is revolutionising waste management with Earthling First",
             "link": "https://yourstory.com/socialstory/2025/02/tamanna-sharma-waste-management-earthling-first",
             "date": "28/02/2025",
             "category": "Sustainability",
-            "description": ""
+            "excerpt": "Earthling First is a sustainability consultancy that creates waste management models for businesses and organisations."
         },
         {
-            "title": "",
+            "title": "How the funding game has changed; Meet the Nestman of India",
             "link": "https://yourstory.com/2025/02/how-funding-game-has-changed-meet-nestman-india",
             "date": "28/02/2025",
             "category": "Daily Capsule",
-            "description": ""
+            "excerpt": "Sorin Investments Founder Sanjay Nayar discusses the evolving founder mindset and funding scenarios. Rakesh Khatri, fondly known as the \u201cNestman of India\u201d"
         },
         {
-            "title": "",
+            "title": "There is no shortage of capital, but the funding game has changed, says Sanjay Nayar of Sorin Investments",
             "link": "https://yourstory.com/2025/02/there-shortage-capital-funding-game-changed-sanjay-nayar",
             "date": "28/02/2025",
             "category": "Interview",
-            "description": ""
+            "excerpt": "In a conversation with YourStory, Sanjay Nayar, Founder, Sorin Investments, and President of ASSOCHAM, discusses the evolving founder mindset and emphasis"
         },
         {
-            "title": "",
+            "title": "Bengaluru-based Whizzo harnesses materials science to weave innovative textiles",
             "link": "https://yourstory.com/2025/02/bengaluru-based-whizzo-harnesses-materials-science-to-weave-innovative-textiles",
             "date": "28/02/2025",
             "category": "In-focus",
-            "description": ""
+            "excerpt": "Founded in 2024,by Shrestha Kukreja, Whizzo is a material science manufacturing company that specialises in engineered and technical textiles to deliver i"
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/sentient-debuts-ai-chatbot-with-15-agents-to-rival-perplexity",
-            "date": "27/02/2025",
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Art and craft",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Interview",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Financial Services",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Art and Culture",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Opinion",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Edtech",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Funding",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Electric Vehicle",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/karnataka-govt-partners-c-camp-third-edition-agri-grand-challenges",
-            "date": "27/02/2025",
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/us-citizenship-time-5-million-spare",
-            "date": "27/02/2025",
-            "category": "AI Gen",
-            "description": ""
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Events",
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/startup-essentials-conclave-2025-expert-growth-strategies",
-            "date": "27/02/2025",
-            "category": "AI Gen",
-            "description": ""
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Events",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Sustainability",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Interview",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "In-focus",
+            "excerpt": ""
         }
     ],
     "indians": [
         {
-            "title": "",
+            "title": "Platforms, positioning, pricing \u2013 six Chitra Santhe artists share advice from their creative journeys",
+            "link": "https://yourstory.com/2025/02/platforms-positioning-pricing-art-exhibition-chitra-santhe-creativity-photography",
+            "date": "02/03/2025",
+            "category": "Art and craft",
+            "excerpt": "In this photo essay series from Bengaluru, we showcase more artistic highlights and tips from one of India\u2019s largest street fairs for art."
+        },
+        {
+            "title": "Platforms, learning, empowerment: test your business creativity with Edition 177 of our weekly quiz!",
+            "link": "https://yourstory.com/2025/03/platforms-learning-empowerment-ai-entrepreneur-innovation-education-quiz",
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 177th quiz. Ready?"
+        },
+        {
+            "title": "How venture capitalists fund Indian startups: Inside the minds of India's top VCs",
+            "link": "https://yourstory.com/2025/03/venture-capitalists-secure-billions-fund-indian-startups",
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": "In this power-packed episode, India\u2019s top venture capitalists answer the billion-dollar question: How VC firms get money for Indian startups? The 3 VCs wh"
+        },
+        {
+            "title": "Private equity firm Haveli Investments acquires AppViewX",
             "link": "https://yourstory.com/2025/03/private-equity-firm-haveli-investments-acquires-appviewx",
             "date": "01/03/2025",
             "category": "Mergers and Acquisitions",
-            "description": ""
+            "excerpt": "As part of the strategic acquisition, cybersecurity veteran Dino DiMarino has been appointed as the Chief Executive Officer to lead AppViewX in to next ph"
         },
         {
-            "title": "",
+            "title": "Debt financing: paving the way for D2C and SaaS businesses",
             "link": "https://yourstory.com/2025/02/debt-financing-paving-d2c-alongside-saas-businesses-way",
             "date": "01/03/2025",
             "category": "Financial Services",
-            "description": ""
+            "excerpt": "Quick commerce has opened a new door for D2C businesses. Debt financing can help them cross the threshold and reach new heights."
         },
         {
-            "title": "",
+            "title": "Chef Ishtiyaque Qureshi\u2019s take on Awadhi cuisine beyond the classics",
             "link": "https://yourstory.com/ys-life/chef-ishtiyaque-qureshi-awadhi-cuisine",
             "date": "01/03/2025",
             "category": "Wine and Food",
-            "description": ""
+            "excerpt": "In a freewheeling chat, Chef Ishtiyaque Qureshi, son of the late Imtiaz Qureshi, tells us about his inclination towards discovery and creation while maint"
         },
         {
-            "title": "",
+            "title": "Why Pristyn Care exited Bangladesh; Experts on the dropping Bitcoin price",
             "link": "https://yourstory.com/2025/02/why-pristyn-care-exited-bangladesh-bitcoin-proce-byju-court-case",
             "date": "01/03/2025",
             "category": "Daily Capsule",
-            "description": ""
+            "excerpt": "Indian healthcare startup Pristyn Care has halted its operations in Bangladesh, less than a year after expanding to the neighbouring country, YourStory ha"
         },
         {
-            "title": "",
+            "title": "Rethinking CSR spending: are we missing the mark?",
             "link": "https://yourstory.com/socialstory/2025/01/rethinking-csr-spending-deeptech-systemic-transformations",
             "date": "01/03/2025",
             "category": "Opinion",
-            "description": ""
+            "excerpt": "CSR has evolved beyond being a compliance-driven obligation to emerge as a strategic tool for driving sustainable and lasting social impact."
         },
         {
-            "title": "",
+            "title": "Flip structures under the new overseas direct investment framework",
             "link": "https://yourstory.com/2025/02/flip-structures-under-new-overseas-direct-investment-framework",
             "date": "01/03/2025",
             "category": "Opinion",
-            "description": ""
+            "excerpt": "In the recent past, flip structures have gained popularity among Indian startups, and some startups have actively adopted such flip structures to infuse f"
         },
         {
-            "title": "",
+            "title": "Raising the bar: Bengaluru\u2019s cocktail taverns now rival the best in India and Asia",
             "link": "https://yourstory.com/ys-life/bengaluru-cocktail-bars-now-rival-india-and-asias-best",
             "date": "01/03/2025",
             "category": "Wine and Food",
-            "description": ""
+            "excerpt": "Renowned as the beer capital of India, Bengaluru is now leading the game with its intimate and personalised bars that go beyond just good cocktails, to pr"
         },
         {
-            "title": "",
+            "title": "Adani Green Energy crosses 12GW renewable energy capacity mark, added 275MW solar project",
             "link": "https://yourstory.com/enterprise-story/2025/02/adani-green-energy-crosses-12gw-renewable-energy-capacity",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "AGEL's 12,258.1 MW portfolio consists of 8,347.5 MW solar, 1,651 MW wind and 2,259.6 MW wind-solar hybrid capacity."
         },
         {
-            "title": "",
+            "title": "US bankruptcy court says BYJU\u2019S, Riju Ravindran, Camshaft defrauded lenders",
             "link": "https://yourstory.com/2025/02/byjus-riju-ravindran-alpha-533-million-fraud-court-judgment-verdict",
             "date": "28/02/2025",
             "category": "Edtech",
-            "description": ""
+            "excerpt": "The court also confirmed that Riju Ravindran violated his fiduciary duties as a director of BYJU\u2019S Alpha."
         },
         {
-            "title": "",
+            "title": "[Weekly funding roundup Feb 22-28] VC investments plummets further",
             "link": "https://yourstory.com/2025/02/weekly-funding-roundup-feb-22-28-vc-investments-decline",
             "date": "28/02/2025",
             "category": "Funding",
-            "description": ""
+            "excerpt": "Venture capital funding into Indian startups continued to decline for two consecutive weeks and trend may persist for some more time."
         },
         {
-            "title": "",
+            "title": "India needs to grow at average 7.8% to become high-income country by 2047: World Bank",
             "link": "https://yourstory.com/2025/02/india-needs-grow-average-78-pc-become-high-income-country",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "Recognizing India's fast pace of growth averaging 6.3% between 2000 and 2024, the report notes that India's past achievements provide the foundation for i"
         },
         {
-            "title": "",
+            "title": "Bitcoin drops below $80,000 amid macro uncertainty but experts remain optimistic",
             "link": "https://yourstory.com/2025/02/bitcoin-price-80000-donald-trump-tariff-macro-uncertainty-crypto",
             "date": "28/02/2025",
             "category": "Cryptocurrency",
-            "description": ""
+            "excerpt": "Bitcoin's price has fallen from the heights of above $108,000 a month ago after Donald Trump became the US President."
         },
         {
-            "title": "",
+            "title": "Ethereal Machines signs MoU with Karnataka Government to establish factory in Bengaluru",
             "link": "https://yourstory.com/2025/02/ethereal-machines-signs-mou-with-karnataka-government",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "The facility is expected to advance precision manufacturing, engineering, and research and development (R&D) while contributing to India and Karnataka\u2019s i"
         },
         {
-            "title": "",
+            "title": "CashKaro: Rewriting the rules of ecommerce",
             "link": "https://yourstory.com/video/cashkaro-rewriting-the-rules-of-ecommerce",
             "date": "28/02/2025",
             "category": null,
-            "description": ""
+            "excerpt": "Airtel Business, in association with YourStory, presents Mavericks Season 3, featuring CashKaro \u2013 the platform revolutionizing online shopping in India! \ud83d\ude80  Since 2013, Swati & Rohan Bhargava have empowered 15M+ users to save big through cashback & coupons, partnering with 1,500+ ecommerce platforms"
         },
         {
-            "title": "",
+            "title": "Startup news and updates: Daily roundup (February 28, 2025)",
             "link": "https://yourstory.com/2025/02/startup-news-and-updates-daily-roundup-february-28",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Friday, February 28, 2025."
         },
         {
-            "title": "",
+            "title": "Exclusive: Why Pristyn Care exited Bangladesh",
             "link": "https://yourstory.com/2025/02/why-pristyn-care-exited-bangladesh",
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": "Pristyn Care has shut down its Bangladesh operations less than a year after launch due to political instability, among other reasons, shifting focus back"
         },
         {
-            "title": "",
+            "title": "What's happening at DevSparks Pune? Here's the full agenda",
             "link": "https://yourstory.com/2025/02/devsparks-pune-2025-developer-conference-summit-speakers-agenda",
             "date": "28/02/2025",
             "category": "Events",
-            "description": ""
+            "excerpt": "DevSparks Pune 2025 features AI pioneers, deep tech experts, and global leaders who are pushing the boundaries of technology. Get the best actionable take"
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/ys-life/24-hours-in-kashmir-how-to-make-the-most-of-it",
-            "date": "28/02/2025",
-            "category": "Travel and Leisure",
-            "description": ""
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Art and craft",
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/2025/02/upi-transactions-jan-highest-record-month",
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Quiz",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "02/03/2025",
+            "category": "Investor",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Mergers and Acquisitions",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Financial Services",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Wine and Food",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Daily Capsule",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Opinion",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Opinion",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "01/03/2025",
+            "category": "Wine and Food",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
             "date": "28/02/2025",
             "category": "News",
-            "description": ""
+            "excerpt": ""
         },
         {
-            "title": "",
-            "link": "https://yourstory.com/herstory/2025/02/she-capital-capri-sports-host-founders-meet-wpl",
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Edtech",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Funding",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "News",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "Cryptocurrency",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "News",
+            "excerpt": ""
+        },
+        {
+            "title": "Mavericks - Season 3",
+            "link": "https://yourstory.com/series/mavericks-season-3",
+            "date": "28/02/2025",
+            "category": null,
+            "excerpt": "Entrepreneurship is not for the faint-hearted. But every now and then, the ones who choose to tread and stick to the path emerge true victors, the brave hearts. They think outside the box, refuse to play by the rules, take risks and have a relentless drive to reinvent and revolutionise the system. They are the Mavericks."
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "News",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
+            "date": "28/02/2025",
+            "category": "News",
+            "excerpt": ""
+        },
+        {
+            "title": null,
+            "link": null,
             "date": "28/02/2025",
             "category": "Events",
-            "description": ""
+            "excerpt": ""
         }
     ]
 }
