@@ -1,6 +1,34 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
+import random
+
+def get_article_excerpt(link):
+    """
+    Given an article URL, fetch the page and try to extract its excerpt.
+    First, look for a meta description. If not found, try grabbing the first paragraph
+    from a container with class "article-content".
+    """
+    try:
+        print(f"Fetching excerpt from: {link}")
+        response = requests.get(link)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+       
+        meta_desc = soup.find("meta", {"name": "description"})
+        if meta_desc and meta_desc.get("content"):
+            return meta_desc["content"].strip()
+        
+        article_body = soup.find("div", class_="article-content")
+        if article_body:
+            p_tag = article_body.find("p")
+            if p_tag:
+                return p_tag.get_text(strip=True)
+        return ""
+    except Exception as e:
+        print(f"Error fetching excerpt from {link}: {e}")
+        return ""
 
 def scrape_techcrunch(query):
     url = f"https://techcrunch.com/?s={query}"
@@ -8,7 +36,6 @@ def scrape_techcrunch(query):
     response = requests.get(url)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
-    
     
     results_ul = soup.find('ul', class_='wp-block-post-template')
     if not results_ul:
@@ -34,12 +61,11 @@ def scrape_techcrunch(query):
             if img and img.get('src'):
                 image_url = img.get('src')
         
-        
         content_div = loop_card.find('div', class_='loop-card__content')
         if not content_div:
             continue
         
-        
+       
         category = "N/A"
         cat_group = content_div.find('div', class_='loop-card__cat-group')
         if cat_group:
@@ -74,13 +100,20 @@ def scrape_techcrunch(query):
         if time_tag:
             date = time_tag.get_text(strip=True)
         
+      
+        excerpt = ""
+        if link != "N/A":
+            excerpt = get_article_excerpt(link)
+            time.sleep(random.uniform(1, 2))  
+        
         article_data = {
             "title": title,
             "link": link,
             "date": date,
             "category": category,
             "author": author,
-            "image": image_url
+            "image": image_url,
+            "excerpt": excerpt
         }
         results.append(article_data)
     
@@ -101,8 +134,8 @@ if __name__ == "__main__":
             print(f"Date: {article['date']}")
             print(f"Category: {article['category']}")
             print(f"Author: {article['author']}")
-            print(f"Image: {article['image']}\n")
-    
+            print(f"Image: {article['image']}")
+            print(f"Excerpt: {article['excerpt']}\n")
     
     with open("techcrunch_articles.json", "w", encoding="utf-8") as f:
         json.dump(all_results, f, ensure_ascii=False, indent=4)
